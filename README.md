@@ -1,0 +1,2 @@
+# guanjianci-guanggaoquchushaixuan
+Coupang韩文搜索关键词分级与广告关键词去除Skill，支持中文翻译和Excel输出
