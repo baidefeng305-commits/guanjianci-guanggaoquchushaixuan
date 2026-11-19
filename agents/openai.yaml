@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coupang关键词筛选与广告去除"
+  short_description: "独立处理韩文搜索词优先级或广告去除分析，附中文翻译、待核实问题及Excel"
+  default_prompt: "使用 $guanjianci-guanggaoquchushaixuan，按我指定的搜索关键词筛选或广告关键词去除模式，结合产品名称与卖点分析附件，添加中文翻译并输出Excel。"
